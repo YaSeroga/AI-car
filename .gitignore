@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.idea/
+AI car/Library/
+AI car/UserSettings/
+AI car/Logs/
+AI car/Temp
